@@ -1,3 +1,5 @@
+![Screenshot (21)](https://user-images.githubusercontent.com/47064920/119220087-5084a400-bb06-11eb-9c89-6abcd7500e75.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/47064920/119220211-12d44b00-bb07-11eb-93b2-dc2557b55c7b.png)
 # todoList using django
 # made login page,first user needs to register
 #then delete ,add task 
