@@ -1,4 +1,4 @@
-User personal online todo website created by using Django backhand framework.
+User personal online todo website created by using Django backend framework.
 
 Below is screenshots of different pages
 
